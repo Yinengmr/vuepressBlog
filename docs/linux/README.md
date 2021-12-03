@@ -313,8 +313,3 @@ javascript.json javascript 自定义代码块片段
 - [进阶推荐]《The Linux Command Line》 by William E. Shotts Jr.
 - [高级推荐]《深入理解 Linux 内核》 by Daniel P.Bovet / Marco Cesati
 - [高级推荐]《Linux/UNIX系统编程手册》 by Michael Kerrisk
-
-
-## centos7 时间设置与同步
-
-[centos7 时间设置与同步](./centos7时间设置与同步.html)
